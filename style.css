@@ -2,7 +2,6 @@
 padding: 15px;
 background: green;
 color: white; 
-one;
 }
 .hover:hover {
 background: darkgreen; 
@@ -22,7 +21,7 @@ padding: 5px;
 text-decoration: none;
 color: black;
 }
-dropdown {
+.dropdown {
 position: relative; 
 display: inline-block;
 }
